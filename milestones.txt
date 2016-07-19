@@ -1,0 +1,7 @@
+
+Here we write our goals for the week and try to acheive it.
+
+Week 3
+>>Ashesh: 
+	-create a simple website using bootstrap and less
+	-study java spring.
