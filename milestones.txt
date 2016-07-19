@@ -5,3 +5,8 @@ Week 3
 >>Ashesh: 
 	-create a simple website using bootstrap and less
 	-study java spring.
+>>Feihua:
+	-continue studing Jquery
+	-try JQuery with a simple one page webpage
+	-select a spring book start reading it 
+	-Read through first chacpter. share and discuss what I learned with Ashesh.(Hopefully can be done within this week)
